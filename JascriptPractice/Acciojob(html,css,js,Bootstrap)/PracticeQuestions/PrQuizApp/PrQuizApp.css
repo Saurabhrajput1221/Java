@@ -1,0 +1,28 @@
+.quiz-conatainer{
+    background-color: bisque;
+    border-radius: 20px;
+    width: 600px;
+    overflow: hidden;
+    box-shadow: 10px black;
+    height: 300px;
+    line-height: 35px;
+    /* margin-left: 35px; */
+}
+h2{
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
+}
+button{
+    background-color: blueviolet;
+    color: #fff;
+    width: 100%;
+    font-size: 25px;
+    padding: 1.3rem;
+    cursor: pointer;
+    font-family: inherit;
+    /* margin-top: 60px; */
+}
+label{
+    margin-left: 15px;
+}
